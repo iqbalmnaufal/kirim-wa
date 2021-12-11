@@ -22,6 +22,7 @@ main {
 h1 {
   color: #fff;
   background-color: #128c7e;
+  font-size: 3.5rem;
 }
 
 input {
@@ -29,10 +30,13 @@ input {
   border: 1px solid #fff;
   padding: 10px;
   background-color: #f2f2f2;
+  width: 20rem;
+  height: 2rem;
 }
 
 button {
   margin-top: 20px;
+  font-size: 17px;
   background-color: #128c7e;
   color: white;
   padding: 10px;
