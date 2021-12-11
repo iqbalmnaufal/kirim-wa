@@ -23,3 +23,10 @@ h1 {
   color: #fff;
   background-color: #128c7e;
 }
+
+input {
+  border-radius: 20px;
+  border: 1px solid #fff;
+  padding: 10px;
+  background-color: #f2f2f2;
+}
