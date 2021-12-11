@@ -18,3 +18,8 @@ main {
   padding: 10px;
   box-sizing: border-box;
 }
+
+h1 {
+  color: #fff;
+  background-color: #128c7e;
+}
